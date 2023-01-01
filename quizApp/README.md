@@ -1,10 +1,12 @@
 # quizApp
 
-This template should help get you started developing with Vue 3 in Vite.
+Quiz webapp made following Laith Academy course
+- [Laith Academy course](https://youtu.be/I_xLMmNeLDY)
+- built using Vue3 to explore using composition api
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
 
 ## Customize configuration
 
@@ -22,8 +24,3 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
